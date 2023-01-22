@@ -1,4 +1,3 @@
-import './Hero.css'
 import img from '../images/hero.jpg'
 
 const Hero = () => {
